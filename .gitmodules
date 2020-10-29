@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/SuperNabla95/SuperNabla95.github.io.git
+	branch = master

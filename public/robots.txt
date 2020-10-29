@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: SuperNabla95.github.io/sitemap.xml

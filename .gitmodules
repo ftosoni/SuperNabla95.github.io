@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/SuperNabla95/SuperNabla95.github.io.git
 	branch = master
+[submodule "SuperNabla95.github.io"]
+	path = SuperNabla95.github.io
+	url = https://github.com/SuperNabla95/SuperNabla95.github.io
